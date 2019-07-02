@@ -1,6 +1,6 @@
 import numpy as np
 import scipy as sc
-import quitp as qt
+import qutip as qt
 
 
 def purity(rho):
